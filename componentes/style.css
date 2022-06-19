@@ -1,6 +1,19 @@
 body{
     background-color:darkgray
 }
-body > h1{
-    color: blue;
+.bloco > h1{
+    font-size: 1.2em;
+    margin: auto;
+}
+.bloco{
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(110, 252, 252);
+}
+button{
+    width: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.164);
+
 }
